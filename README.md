@@ -1,2 +1,2 @@
 # Milf-Hunters-Racsing-Team-Online-Dash
-Racecar remote data Megasquirt compatible
+Speeduino & Megasquirt online remote real-time data and tune.
